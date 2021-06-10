@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raghavendraU 
+- 👋 Hi, I’m ***_Raghavendra Udagatti_***
 - 👀 I’m interested in **Python**
 - 🌱 I’m currently learning a _Computer Sceince Engineering_
 - 💞️ I’m looking to collaborate on Python projects
